@@ -1,21 +1,49 @@
 [![MasterHead](https://github.com/Jayavelrajan/jayavelrajan/blob/main/Banner/githubbanner.gif)](https://bio.link/jayavelr)
+<!--
 <h1 align="center"> </h1>
 
 <h3 align="center">A self-taught Data Science Enthusiast from India </h3>
 <h3 align="center"> Data Analyst at Kapitus</h3>
+ -->
+<h3 align="center">A Self-taught Data Science Enthusiast From India </h3>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jayavelrajan&label=Profile%20views&color=0e75b6&style=flat" alt="jayavelrajan" /> </p>
+
+<!-- <p align="left">
+<a href="https://twitter.com/mjayavelrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayavelrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavelrajan" height="30" width="40" /></a>
+<a href="https://instagram.com/jayavel_rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayavel_rajan" height="30" width="40" /></a>
+<a href="https://www.behance.net/jayavel_rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jayavel_rajan" height="30" width="40" /></a>
+<a href="https://hashnode.com/jayavelrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="40" /></a>
+</p> -->
+
+<p align="center">
+  <a href="https://twitter.com/mjayavelrajan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jayavelrajan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavelrajan" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jayavel_rajan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayavel_rajan" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/jayavel_rajan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jayavel_rajan" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/jayavelrajan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="40" />
+  </a>
+</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
 
 <!-- <a href="mailto: " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=" " height="20" width="85" /></a> -->
 
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
+<!-- <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
 <a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
 <a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://bio.link/AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
-
+ -->
 <!--
 Banner code
 <br>
@@ -27,9 +55,9 @@ OR
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://bio.link/AnkitGupta)
+- 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/jayavelrajan/)
 
-- 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
+- 🔭 I’m currently working on ETL testing, Data Analytics & Python 
 
 - 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
 
