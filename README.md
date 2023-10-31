@@ -19,19 +19,19 @@
 
 <p align="center">
   <a href="https://twitter.com/mjayavelrajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="60" />
   </a>
   <a href="https://linkedin.com/in/jayavelrajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavelrajan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavelrajan" height="30" width="60" />
   </a>
   <a href="https://instagram.com/jayavel_rajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayavel_rajan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayavel_rajan" height="30" width="60" />
   </a>
   <a href="https://www.behance.net/jayavel_rajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jayavel_rajan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jayavel_rajan" height="30" width="60" />
   </a>
   <a href="https://hashnode.com/jayavelrajan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jayavelrajan" height="30" width="60" />
   </a>
 </p>
 
@@ -61,13 +61,13 @@ OR
 
 - 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
 
-- 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
+- 📝 Sometimes I write articles on [Hashnode](https://jvr.hashnode.dev/)
 
-- 🏆 Finalist of "Startup India Innovation Challenge 2018"
+- 🏆 Team Lead of the Winning Team **SAMRAJ** at **Smart India Hackathon - 2020 Hardware Edition**
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
+- 💬 Finalist in the National-Level **SAP Labs Semicolon Hackathon** - 2019
 
-- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/MrAnkitGupta)
+- 📄 Regional Finalist in the **Viswakarma Awards - 2019** for the Agriculture Automation project with IoT and Data Analytics
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_) / [Instagram](www.instagram.com/MrAnkitGupta_)
 
