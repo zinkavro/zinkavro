@@ -65,14 +65,15 @@ OR
 
 - 🏆 Team Lead of the Winning Team **SAMRAJ** at **Smart India Hackathon - 2020 Hardware Edition**
 
-- 💬 Finalist in the National-Level **SAP Labs Semicolon Hackathon** - 2019
+- ❄ Finalists in the National-Level **SAP Labs Semicolon Hackathon - 2019**
 
-- 📄 Regional Finalist in the **Viswakarma Awards - 2019** for the Agriculture Automation project with IoT and Data Analytics
+- 🎇 Regional Finalists in the **Viswakarma Awards - 2019** for the Agriculture Automation project with IoT and Data Analytics
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_) / [Instagram](www.instagram.com/MrAnkitGupta_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jayavelrajan/) / [Twitter](https://twitter.com/mjayavelrajan) / [Instagram](https://www.instagram.com/jayavel_rajan/)
 
-- ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
+- ⚡ Fun fact: I successfully completed **Keshart's 100 days of drawing challenge** without missing a single day😎. Check it out [here](https://www.instagram.com/stories/highlights/17983797086218930/)😉
 
+<!--
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
 <code>[Titanic Survival Prediction: Machine Learning Model](https://github.com/mrankitgupta/titanic-survival-prediction-93-xgboost)</code> 👨‍💻 
@@ -86,21 +87,26 @@ OR
 <code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
 
 <code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
+ -->
 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/834888a2-739c-460d-8109-ba8d20cc6ff9/public_url) - by **Google**
 
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle, [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
+- [Google Analytics for Beginners](https://drive.google.com/file/d/1tn2JZsB44o7lIazrjKnNOSfyWLZPmi9b/view) - by **Google**
 
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
+- [The Fundamentals of Digital marketing](https://drive.google.com/file/d/1sF7kNDsshkF1zbcETC6wW1iwJZx4YzLZ/view) - by **Google Digital Garage**
+  
+- [Introduction to Artificial Intelligence](https://certificates.mooc.fi/validate/4bim9iq3aoe) - by **University of Helsinki**
 
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
+- [Introduction to Serverless Development](https://drive.google.com/file/d/1gc0dqKlahq_QxYwowda7mu7A5Ys1IzUL/view) - by **Amazon Web Services**
 
-- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
+- [AR Open Program](https://drive.google.com/file/d/1ODJrxMruDiK_K5jf_3XGeTNsl0O-5xy4/view) - by **School of Innovation India from Facebook**
 
-- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
+- [Degree of Rashtrabhasha Praveen](https://drive.google.com/file/d/1k2tr4XLPZWlRRGQxaRulntTFw8dGam4N/view) - by **Dakshina Bharat Hindi Prachar Sabha**
+
+- [Diploma in Computer Application (DCA)](https://drive.google.com/file/d/1U4gduyw8a6IQlSnMjB8l-mgtPOZbxniQ/view) - by **CSC Chennai**
 
 <h3 align="left">Wanna see my Blogs :question: 📝</h3>
 <!--
