@@ -7,7 +7,7 @@
  -->
 <h3 align="center">A Self-taught Data Science Enthusiast From India </h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jayavelrajan&label=Profile%20views&color=0e75b6&style=flat" alt="jayavelrajan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayavelrajan&label=Profile%20views&color=0e75b6&style=flat" alt="jayavelrajan" /> </p>
 
 <!-- <p align="left">
 <a href="https://twitter.com/mjayavelrajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjayavelrajan" height="30" width="40" /></a>
